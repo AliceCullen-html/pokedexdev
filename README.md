@@ -21,4 +21,4 @@ Se preferir acesse: https://alicecullen-html.github.io/pokedexdev/
 
 <h1>Autor</h1>
 
-Linkedin: https://www.linkedin.com/in/marcus-vinicius-18762718a/
+Linkedin: https://www.linkedin.com/in/marcus-cunha-18762718a/
